@@ -1,0 +1,16 @@
+C:\Users\Серго\Desktop\source\github\KG\WORK_1\bin\Debug\net8.0-windows\WORK_1.exe
+C:\Users\Серго\Desktop\source\github\KG\WORK_1\bin\Debug\net8.0-windows\WORK_1.deps.json
+C:\Users\Серго\Desktop\source\github\KG\WORK_1\bin\Debug\net8.0-windows\WORK_1.runtimeconfig.json
+C:\Users\Серго\Desktop\source\github\KG\WORK_1\bin\Debug\net8.0-windows\WORK_1.dll
+C:\Users\Серго\Desktop\source\github\KG\WORK_1\bin\Debug\net8.0-windows\WORK_1.pdb
+C:\Users\Серго\Desktop\source\github\KG\WORK_1\obj\Debug\net8.0-windows\WORK_1.Form1.resources
+C:\Users\Серго\Desktop\source\github\KG\WORK_1\obj\Debug\net8.0-windows\WORK_1.csproj.GenerateResource.cache
+C:\Users\Серго\Desktop\source\github\KG\WORK_1\obj\Debug\net8.0-windows\WORK_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Серго\Desktop\source\github\KG\WORK_1\obj\Debug\net8.0-windows\WORK_1.AssemblyInfoInputs.cache
+C:\Users\Серго\Desktop\source\github\KG\WORK_1\obj\Debug\net8.0-windows\WORK_1.AssemblyInfo.cs
+C:\Users\Серго\Desktop\source\github\KG\WORK_1\obj\Debug\net8.0-windows\WORK_1.csproj.CoreCompileInputs.cache
+C:\Users\Серго\Desktop\source\github\KG\WORK_1\obj\Debug\net8.0-windows\WORK_1.dll
+C:\Users\Серго\Desktop\source\github\KG\WORK_1\obj\Debug\net8.0-windows\refint\WORK_1.dll
+C:\Users\Серго\Desktop\source\github\KG\WORK_1\obj\Debug\net8.0-windows\WORK_1.pdb
+C:\Users\Серго\Desktop\source\github\KG\WORK_1\obj\Debug\net8.0-windows\WORK_1.genruntimeconfig.cache
+C:\Users\Серго\Desktop\source\github\KG\WORK_1\obj\Debug\net8.0-windows\ref\WORK_1.dll
